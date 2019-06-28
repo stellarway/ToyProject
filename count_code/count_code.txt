@@ -1,9 +1,9 @@
 Return the number of times that the string "code" appears anywhere in the given string, except we'll accept any letter for the 'd', so "cope" and "cooe" count.
 
-##샘플
+##실행 코드의 예
 count_code('aaacodebbb') → 1
 count_code('codexxcode') → 2
 count_code('cozexxcope') → 2
 
-##출처
+##출처(답을 이곳에 제출하면 결과를 알 수 있습니다.)
 https://codingbat.com/prob/p186048
