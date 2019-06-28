@@ -1,4 +1,4 @@
-# ToyProject 사용방법
+# ToyProject 사용방법  
 
 1. 내고 싶은 문제가 있다면 폴더를 만듭니다.  
   (문제 제시 시 본인의 **이름 혹은 닉네임** 명시)
@@ -18,3 +18,5 @@
 [백준 온라인 저지](https://www.acmicpc.net/): 알고리즘 공부하면 제일 먼저 생각나는 사이트. 거의 모든 문제 있음. 삼성 역량 테스트 모음 등
 
 [삼성 SW expert academy](https://swexpertacademy.com/main/main.do): 삼성에서 만든 알고리즘 사이트. 삼성 역량 테스트 상시 시험을 볼 수 있음
+
+[HackerRank](https://www.hackerrank.com/dashboard): 영문판 알고리즘 연습 사이트. 영어실력 향상도 덤
