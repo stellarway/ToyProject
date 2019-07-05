@@ -1,0 +1,9 @@
+first_rec
+주어진 String에서 For문을 한번만 사용하여 처음으로 반복되는 글자를 반환하시오
+ex
+first_rec("ekgeb")
+>>> e
+first_rec("gkbewlb")
+>>> b
+first_rec("abba")
+>>> b
