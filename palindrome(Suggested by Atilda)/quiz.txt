@@ -1,0 +1,8 @@
+Palindrome(회문) 판별하기
+
+Palindrome(회문)이란 주어진 문자열이 거꾸로 나열해도 원래의 문자열과 동일한 함수를 말한다.
+ex) "EYE","토마토","LEVEL"와 같은 단어가 Palindrome에 해당한다.
+
+eye -> True
+토마토 -> True
+tomato -> False
